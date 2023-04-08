@@ -9,4 +9,4 @@ Design Tools: Canva.
 # 📫 Contact
 You can reach me at my email: rajatraguvanshi3900@gmail.com
 
-Feel free to connect with me on LinkedIn as well!
+Feel free to connect with me on LinkedIn as well [RajatKalotra](https://pages.github.com/](https://www.linkedin.com/in/rajat-kalotra-319521230/)
