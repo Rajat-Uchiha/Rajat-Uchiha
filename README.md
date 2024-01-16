@@ -1,8 +1,8 @@
 ## I'm a Programmer and Frontend Developer with a passion for creating visually stunning and user-friendly websites and applications.
 
 # 🔭 Skills
-Languages: JavaScript, HTML, CSS, C++, Java, Python.<br/>
-Frameworks & Libraries: React, Tailwind Css.<br/>
+Languages: JavaScript, HTML, CSS, C++<br/>
+Frameworks & Libraries: React.js, Node.js, Tailwind Css, Express.js.<br/>
 Tools & Technologies: Git, VS Code.<br/>
 Design Tools: Canva.<br/>
 
