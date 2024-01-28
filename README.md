@@ -1,2 +1,2 @@
 ## I'm a Programmer and Fullstack MERN Developer with a passion for creating visually stunning and user-friendly websites and applications.
--https://img.shields.io/badge/any_text-you_like-blue
+![Static Badge]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/just%20the%20message-8A2BE2)https://img.shields.io/badge/just%20the%20message-8A2BE2)
