@@ -2,7 +2,7 @@
 ### Languages
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow) ![Static Badge](https://img.shields.io/badge/C++-blue) ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-blue)
 ### Frameworks and libraries
-![Static Badge](https://img.shields.io/badge/EXPRESS.JS-green) ![Static Badge](https://img.shields.io/badge/REACT.JS-#61DAFB) ![Static Badge](https://img.shields.io/badge/NODE.JS-green)
+![Static Badge](https://img.shields.io/badge/EXPRESS.JS-green) ![Static Badge](https://img.shields.io/badge/REACT.JS-61DAFB) ![Static Badge](https://img.shields.io/badge/NODE.JS-green)
 
 
 
