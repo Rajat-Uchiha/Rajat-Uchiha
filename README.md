@@ -1,13 +1,13 @@
 ## I'm a Programmer and Fullstack MERN Developer with a passion for creating visually stunning and user-friendly websites and applications.
 
 # 🔭 Skills
-###Languages:
+### Languages:
 JavaScript, HTML, CSS, C++<br/>
-###Frameworks & Libraries:
+### Frameworks & Libraries:
 React.js, Node.js, Tailwind Css, Express.js.<br/>
-###Tools & Technologies: 
+### Tools & Technologies: 
 Git, VS Code.<br/>
-###Design Tools:
+### Design Tools:
 Canva.
 <br/>
 
