@@ -5,8 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/EXPRESS.JS-green) ![Static Badge](https://img.shields.io/badge/REACT.JS-61DAFB) ![Static Badge](https://img.shields.io/badge/NODE.JS-green)
 ### Database
 ![Static Badge](https://img.shields.io/badge/MONGODB-green)
-### Designing
-![Static Badge](https://img.shields.io/badge/CANVA-blue)
+### Tools
+![Static Badge](https://img.shields.io/badge/CANVA-blue) ![Static Badge](https://img.shields.io/badge/GIT-orange)
 
 
 
